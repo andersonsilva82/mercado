@@ -1,4 +1,4 @@
-# mercado
+# Mercado
 
 A new Flutter project.
 
